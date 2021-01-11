@@ -15,7 +15,7 @@ int main()
     head->link=NULL;
     current->data=20;
     head->link-current;
-    current1->data=30;
+    current1->data=40;
     current->link=current1;
     current1->link=NULL;
 
